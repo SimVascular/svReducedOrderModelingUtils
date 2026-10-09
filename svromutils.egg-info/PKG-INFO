@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: svromutils
+Version: 0.1.1
+License-Expression: MIT
+Description-Content-Type: text/markdown
+Requires-Dist: numpy>=2.5
+Requires-Dist: vtk>=9.2
+Requires-Dist: scipy>=1.18
+Requires-Dist: vmtk>=1.5.2
+
+# svReducedOrderModelingUtils
+Python package used to create input files for the svOneDSolver and svZeroDSoler reduced  order modeling (ROM) solvers.
+
+## Installation
+
+The package is published on PyPI as `svromutils`:
+
+```bash
+pip install svromutils
+```
+

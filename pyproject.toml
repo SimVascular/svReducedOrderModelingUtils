@@ -21,8 +21,3 @@ dependencies = [
 [project.scripts]
 svromutils-create-solver-file="svromutils.create_solver_file:run_cli"
 
-[project.optional-dependencies]
-dev = [
-    "pytest>=8.0",
-    "pytest-cov>=5.0"
-]
