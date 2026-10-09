@@ -1,0 +1,7 @@
+__pycache__/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
