@@ -1,2 +1,0 @@
-[console_scripts]
-svromutils-create-solver-file = svromutils.create_solver_file:run_cli
